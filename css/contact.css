@@ -1,0 +1,102 @@
+.contact-method-block {
+	width: 1920px;
+	height: 364px;
+	background: #678F8D;
+}
+
+.contact-method-chinese-block {
+	width: 129px;
+	height: 48px;
+	padding-top: 24px;
+	padding-left: 782px;
+	display: inline-block;
+
+}
+.contact-method-chinese {
+	font-family: 'Noto Sans', 'sans-serif';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 32px;
+	line-height: 48px;
+
+	text-align: center;
+
+	color: #FFFFFF;
+}
+
+.contact-method-english-block {
+	width: 213px;
+	height: 36px;
+	margin-left: 16px;
+	display: inline-block;
+
+}
+
+.contact-method-english {
+	font-family: 'Roboto', 'sans-serif';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 24px;
+	line-height: 36px;
+
+	text-align: center;
+
+	color: #FFFFFF;
+}
+
+.contact-email {
+	width: 459px;
+	height: 36px;
+	margin-top: 24px;
+	margin-left: 730px;
+	font-family: 'Noto Sans', 'sans-serif';
+	font-style: normal;
+	font-weight: 300;
+	font-size: 24px;
+	line-height: 36px;
+	color: #FFFFFF;
+}
+
+.contact-mobile {
+	width: 280px;
+	height: 36px;
+	margin-top: 16px;
+	margin-left: 820px;
+	font-family: 'Noto Sans', 'sans-serif';
+	font-style: normal;
+	font-weight: 300;
+	font-size: 24px;
+	line-height: 36px;
+	color: #FFFFFF;
+}
+
+.contact-residence {
+	width: 218px;
+	height: 36px;
+	margin-top: 16px;
+	margin-left: 851px;
+	font-family: 'Noto Sans', 'sans-serif';
+	font-style: normal;
+	font-weight: 300;
+	font-size: 24px;
+	line-height: 36px;
+	color: #FFFFFF;
+}
+
+.contact-linkedin {
+	margin-top: 16px;
+	margin-left: 840px;
+	display: inline-block;
+}
+
+.contact-youtube {
+	margin-top: 16px;
+	margin-left: 24px;
+	display: inline-block;
+}
+
+.contact-line {
+	margin-top: 16px;
+	margin-left: 24px;
+	display: inline-block;
+}
